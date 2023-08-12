@@ -1,0 +1,25 @@
+Ejercicio con Stream:
+
+	1. Imprimir Nombres en Mayúsculas:
+Toma una lista de nombres y utiliza forEach para imprimir en la consola cada nombre en mayúsculas.
+
+	2. Imprimir Palabras al Revés:
+Dado un arreglo de palabras, utiliza forEach para imprimir en la consola cada palabra escrita al revés.
+
+	3. Tabla de Multiplicar:
+Utiliza forEach para imprimir en la consola la tabla de multiplicar de un número específico.
+
+	4. Duplicar Números:
+Dado un arreglo de números enteros, utiliza la operación map para 
+crear un nuevo arreglo donde cada número se duplique.
+
+	5.Transformar Nombres en Longitudes:
+Toma una lista de nombres y utiliza la operación map para crear una lista de las longitudes de cada nombre.
+
+	6. Convertir Temperaturas de Celsius a Fahrenheit:
+Dada una lista de temperaturas en grados Celsius, utiliza la operación map para crear 
+una lista de las mismas temperaturas en grados Fahrenheit. La fórmula de conversión es: F = C * 9/5 + 32.
+
+	7. Extracción de Años de Fechas:
+Toma una lista de objetos Date (o LocalDate en Java 8+) y utiliza la operación map para 
+crear una lista de los años correspondientes.
